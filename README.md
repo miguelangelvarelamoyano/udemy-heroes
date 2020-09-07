@@ -6,5 +6,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-###
-Este es el ejemplo de modificar un archivo desde github
+borramos los cambios hecho en el readme
